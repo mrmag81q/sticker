@@ -1,0 +1,28 @@
+.p-color2-a {
+    color: #F15A24;
+}
+.po-s{
+    width: 95%;
+    height: 90px;
+    border-radius: 20px;
+    padding-right: 5px;
+    padding-left: 10px;
+    border: 5px solid #333333;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 8px !important;
+    font-weight: bold;
+}
+.po-s2{
+    width: 95%;
+    height: 90px;
+    padding-right: 5px;
+    padding-left: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 8px !important;
+    font-weight: bold;
+}
+.printablediv{
+    height: 512px;
+}
